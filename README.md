@@ -15,7 +15,7 @@ $ composer install
 
 Copy .env file from .env.example and set the DB configuration and Pusher configuration.
 
-You should create the DB and create the app in the https://pusher.com .
+You should create the app in the https://pusher.com .
 
 You can get the pusher credentails in the pusher dashboard.
 ```sh
